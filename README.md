@@ -6,7 +6,7 @@
 - 💬 I have a love of old card games and documenting them before the knowledge is lost to time.
 - ⚡ Fun fact: I have worked on reviving multiple dead card games.  I run multiple dedicated Discord servers for the games.  I also run in-person events at GenCon (a 4 day gaming convention held in Indianapolis, IN) for at least one of my games, looking to possibly run events for a second.
 
-### 🛠 &nbsp;
+### 🛠 Skills I bring to the table &nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker)&nbsp;
