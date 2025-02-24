@@ -1,8 +1,8 @@
 ## Hello there!  I'm Jason Franklin and this is a collection of my works from over the years.
 
-- 🔭 I’m currently working on creating more Terraform modules that can be used to piece together an infrastructure quick and painlessly.
-- 🌱 I’m currently learning more about Docker, Ansible, and Terraform.  I'm also learning more about Amazon Web Services
-- 👯 I’m looking to collaborate on expanding on my Lackey-Docker project to take it to the next level.
+- 🔭 I’m currently working on creating more Terraform modules pertaining to AWS ECS.
+- 🌱 I’m also creating a CI/CD pipeline for my Terraform project using Github Actions.
+- 👯 I'm looking to bring in a collaborator as I grow my Lackey-Docker project.
 - 💬 I have a love of old card games and documenting them before the knowledge is lost to time.
 - ⚡ Fun fact: I have worked on reviving multiple dead card games.  I run multiple dedicated Discord servers for the games.  I also run in-person events at GenCon (a 4 day gaming convention held in Indianapolis, IN) for at least one of my games, looking to possibly run events for a second.
 
